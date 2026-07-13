@@ -5,6 +5,10 @@ A clean, production-grade Retrieval-Augmented Generation (RAG) chatbot designed 
 **Author:** Subhadeep Sarkar
 **Registration Number:** 23BAI10977  
 
+## 🔗 Project Links
+* **Live Dockerized Web Application:** https://rag-chatbot-zyr8.onrender.com
+* **GitHub Repository:** https://github.com/SubhadeepSarkar04/RAG_ChatBot.git
+
 ---
 
 ## Key Features
